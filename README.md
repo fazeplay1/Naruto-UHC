@@ -19,13 +19,17 @@ La version standard de ProtocolLib pour la 1.8 ne prend pas en charge Java 17. V
 * 👉 **Télécharger :** [ProtocolLib v5.1.0-SNAPSHOT (Compatible 1.8 & Java 17)](https://github.com/dmulloy2/ProtocolLib/releases)
 
 ### 2. OpenAudioMc
-Requis pour la gestion de l'ambiance sonore, des musiques de fond et des effets vocaux/audio spécifiques aux rôles Naruto.
+Requis pour la gestion du chat de proximité
 * 👉 **Télécharger :** [OpenAudioMc (Spigot/Paper)](https://spigotmc.org/resources/openaudiomc-realtime-audio-proshout-voice-chat.30691/)
+
+### 2. OpenAudioMc
+Requis pour la gestion des uhc.
+* 👉 **Télécharger :** uhc-api.jar
 
 ---
 
 ## ⚙️ Installation
 
 1. Arrêtez votre serveur Minecraft.
-2. Glissez le fichier `.jar` de ce plugin ainsi que les deux dépendances (`ProtocolLib` et `OpenAudioMc`) dans le dossier `plugins/`.
+2. Glissez le fichier `.jar` de ce plugin ainsi que les deux dépendances (`ProtocolLib` et `OpenAudioMc` et `uhc-api.jar` ) dans le dossier `plugins/`.
 3. Démarrez votre serveur et amusez-vous ;).

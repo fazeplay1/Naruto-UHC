@@ -3,8 +3,8 @@ Plugins Naruto UHC by fazeplay (Velyq)
 
 Ce plugin implémente le mode de jeu complet **Naruto UHC** sur votre serveur Minecraft.
 
-Important: © Naruto UHC — tous droits réservés.
-⚠️ Le contenu, les plugins ne peuvent pas être réutilisés, modifiés ou redistribués sans autorisation.
+⚠️ Important: © Naruto UHC — tous droits réservés.
+Le contenu, les plugins ne peuvent pas être réutilisés, modifiés ou redistribués sans autorisation.
 
 ## 📌 Version Supportée
 
